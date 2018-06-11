@@ -1,0 +1,167 @@
+ERROR 2018-06-10T10:56:16 supybot Invalid user dictionary file, resetting to empty.
+ERROR 2018-06-10T10:56:16 supybot Exact error: IOError: [Errno 2] No such file or directory: '/home/pi/runbot/conf/users.conf'
+ERROR 2018-06-10T10:56:16 supybot Invalid channel database, resetting to empty.
+ERROR 2018-06-10T10:56:16 supybot Exact error: IOError: [Errno 2] No such file or directory: '/home/pi/runbot/conf/channels.conf'
+WARNING 2018-06-10T10:56:16 supybot Couldn't open ignore database: [Errno 2] No such file or directory: '/home/pi/runbot/conf/ignores.conf'
+INFO 2018-06-10T10:59:23 supybot Creating directory /home/pi/runbot/data/GPGkeyring
+INFO 2018-06-10T11:06:27 supybot Shutdown initiated.
+INFO 2018-06-10T11:06:27 supybot Killing Driver objects.
+INFO 2018-06-10T11:06:27 supybot Killing Irc objects.
+INFO 2018-06-10T11:06:27 supybot Shutdown complete.
+INFO 2018-06-10T11:06:56 supybot Connecting to irc.tuxfamily.org:6697.
+WARNING 2018-06-10T11:06:56 supybot Not checking SSL certificates, connections are vulnerable to man-in-the-middle attacks. Set supybot.protocols.ssl.verifyCertificates to "true" to enable validity checks.
+INFO 2018-06-10T11:07:00 supybot Server campari.tuxfamily.net has version InspIRCd-2.0
+INFO 2018-06-10T11:07:00 supybot Got end of MOTD from campari.tuxfamily.net
+INFO 2018-06-10T11:07:06 supybot Join to #simxu on tuxfamily synced in 6.14 seconds.
+INFO 2018-06-10T11:07:07 supybot Join to #edencraft on tuxfamily synced in 7.19 seconds.
+INFO 2018-06-10T11:07:18 supybot Exiting due to Ctrl-C.  If the bot doesn't exit within a few seconds, feel free to press Ctrl-C again to make it exit without flushing its message queues.
+INFO 2018-06-10T11:07:19 supybot Flushers flushed and garbage collected.
+INFO 2018-06-10T11:07:19 supybot Driver for Irc object for tuxfamily dying.
+INFO 2018-06-10T11:07:19 supybot Irc object for tuxfamily dying.
+INFO 2018-06-10T11:07:19 supybot Driver for Irc object for tuxfamily dying.
+INFO 2018-06-10T11:07:19 supybot Removing driver SocketDriver(Irc object for tuxfamily).
+INFO 2018-06-10T11:07:19 supybot Total uptime: 23 seconds.
+INFO 2018-06-10T11:07:19 supybot Total CPU time taken: 3.83 seconds.
+INFO 2018-06-10T11:07:19 supybot No more Irc objects, exiting.
+INFO 2018-06-10T11:07:19 supybot Shutdown initiated.
+INFO 2018-06-10T11:07:19 supybot Killing Driver objects.
+INFO 2018-06-10T11:07:19 supybot Killing Irc objects.
+INFO 2018-06-10T11:07:19 supybot Writing registry file to ./sampre.conf
+INFO 2018-06-10T11:07:19 supybot Finished writing registry file.
+INFO 2018-06-10T11:07:20 supybot Shutdown complete.
+INFO 2018-06-10T12:00:44 supybot Connecting to irc.tuxfamily.org:6697.
+WARNING 2018-06-10T12:00:44 supybot Not checking SSL certificates, connections are vulnerable to man-in-the-middle attacks. Set supybot.protocols.ssl.verifyCertificates to "true" to enable validity checks.
+INFO 2018-06-10T12:00:47 supybot Server campari.tuxfamily.net has version InspIRCd-2.0
+INFO 2018-06-10T12:00:48 supybot Got end of MOTD from campari.tuxfamily.net
+INFO 2018-06-10T12:00:53 supybot Join to #simxu on tuxfamily synced in 5.30 seconds.
+INFO 2018-06-10T12:00:54 supybot Join to #edencraft on tuxfamily synced in 6.35 seconds.
+INFO 2018-06-10T12:07:26 supybot Exiting due to Ctrl-C.  If the bot doesn't exit within a few seconds, feel free to press Ctrl-C again to make it exit without flushing its message queues.
+INFO 2018-06-10T12:07:27 supybot Flushers flushed and garbage collected.
+INFO 2018-06-10T12:07:27 supybot Driver for Irc object for tuxfamily dying.
+INFO 2018-06-10T12:07:27 supybot Irc object for tuxfamily dying.
+INFO 2018-06-10T12:07:27 supybot Driver for Irc object for tuxfamily dying.
+INFO 2018-06-10T12:07:27 supybot Removing driver SocketDriver(Irc object for tuxfamily).
+INFO 2018-06-10T12:07:27 supybot Total uptime: 6 minutes and 44 seconds.
+INFO 2018-06-10T12:07:27 supybot Total CPU time taken: 4.65 seconds.
+INFO 2018-06-10T12:07:27 supybot No more Irc objects, exiting.
+INFO 2018-06-10T12:07:27 supybot Shutdown initiated.
+INFO 2018-06-10T12:07:27 supybot Killing Driver objects.
+INFO 2018-06-10T12:07:27 supybot Killing Irc objects.
+INFO 2018-06-10T12:07:27 supybot Writing registry file to ./sampre.conf
+INFO 2018-06-10T12:07:27 supybot Finished writing registry file.
+INFO 2018-06-10T12:07:27 supybot Shutdown complete.
+INFO 2018-06-10T12:10:20 supybot Connecting to irc.tuxfamily.org:6697.
+WARNING 2018-06-10T12:10:20 supybot Not checking SSL certificates, connections are vulnerable to man-in-the-middle attacks. Set supybot.protocols.ssl.verifyCertificates to "true" to enable validity checks.
+INFO 2018-06-10T12:10:23 supybot Server edony.tuxfamily.net has version InspIRCd-2.0
+INFO 2018-06-10T12:10:23 supybot Got end of MOTD from edony.tuxfamily.net
+INFO 2018-06-10T12:10:27 supybot list called on #edencraft by "Alcyone!Alcyone@2a01:cb14:80fa:6700:9918:e88a:e52f:da32".
+INFO 2018-06-10T12:10:29 supybot Join to #simxu on tuxfamily synced in 6.24 seconds.
+INFO 2018-06-10T12:10:30 supybot Join to #edencraft on tuxfamily synced in 7.27 seconds.
+INFO 2018-06-10T12:10:54 supybot help called on #edencraft by "Alcyone!Alcyone@2a01:cb14:80fa:6700:9918:e88a:e52f:da32".
+INFO 2018-06-10T12:11:07 supybot help called on #edencraft by "Alcyone!Alcyone@2a01:cb14:80fa:6700:9918:e88a:e52f:da32".
+INFO 2018-06-10T12:11:21 supybot list called on #edencraft by "Alcyone!Alcyone@2a01:cb14:80fa:6700:9918:e88a:e52f:da32".
+INFO 2018-06-10T12:15:48 supybot Exiting due to Ctrl-C.  If the bot doesn't exit within a few seconds, feel free to press Ctrl-C again to make it exit without flushing its message queues.
+INFO 2018-06-10T12:15:48 supybot Flushers flushed and garbage collected.
+INFO 2018-06-10T12:15:48 supybot Driver for Irc object for tuxfamily dying.
+INFO 2018-06-10T12:15:48 supybot Irc object for tuxfamily dying.
+INFO 2018-06-10T12:15:48 supybot Driver for Irc object for tuxfamily dying.
+INFO 2018-06-10T12:15:48 supybot Removing driver SocketDriver(Irc object for tuxfamily).
+INFO 2018-06-10T12:15:48 supybot Total uptime: 5 minutes and 29 seconds.
+INFO 2018-06-10T12:15:48 supybot Total CPU time taken: 4.71 seconds.
+INFO 2018-06-10T12:15:48 supybot No more Irc objects, exiting.
+INFO 2018-06-10T12:15:48 supybot Shutdown initiated.
+INFO 2018-06-10T12:15:48 supybot Killing Driver objects.
+INFO 2018-06-10T12:15:48 supybot Killing Irc objects.
+INFO 2018-06-10T12:15:48 supybot Writing registry file to ./sampre.conf
+INFO 2018-06-10T12:15:49 supybot Finished writing registry file.
+INFO 2018-06-10T12:15:49 supybot Shutdown complete.
+INFO 2018-06-11T15:21:56 supybot Connecting to irc.tuxfamily.org:6697.
+WARNING 2018-06-11T15:21:56 supybot Not checking SSL certificates, connections are vulnerable to man-in-the-middle attacks. Set supybot.protocols.ssl.verifyCertificates to "true" to enable validity checks.
+INFO 2018-06-11T15:21:59 supybot Server edony.tuxfamily.net has version InspIRCd-2.0
+INFO 2018-06-11T15:22:00 supybot Got end of MOTD from edony.tuxfamily.net
+INFO 2018-06-11T15:22:05 supybot Join to #simxu on tuxfamily synced in 5.22 seconds.
+INFO 2018-06-11T15:22:06 supybot Join to #edencraft on tuxfamily synced in 6.25 seconds.
+INFO 2018-06-11T15:29:34 supybot rss add called on #simxu by "Alcyone!Alcyone@2a01:cb14:80fa:6700:612d:5643:11bd:f90f".
+INFO 2018-06-11T15:29:47 supybot rss add called on #simxu by "Alcyone!Alcyone@2a01:cb14:80fa:6700:612d:5643:11bd:f90f".
+INFO 2018-06-11T15:29:56 supybot rss add called on #simxu by "Alcyone!Alcyone@2a01:cb14:80fa:6700:612d:5643:11bd:f90f".
+INFO 2018-06-11T15:30:11 supybot rss add called on #simxu by "Alcyone!Alcyone@2a01:cb14:80fa:6700:612d:5643:11bd:f90f".
+INFO 2018-06-11T15:30:20 supybot rss add called on #simxu by "Alcyone!Alcyone@2a01:cb14:80fa:6700:612d:5643:11bd:f90f".
+INFO 2018-06-11T15:30:29 supybot rss add called on #simxu by "Alcyone!Alcyone@2a01:cb14:80fa:6700:612d:5643:11bd:f90f".
+INFO 2018-06-11T15:31:41 supybot rss add called on #simxu by "Alcyone!Alcyone@2a01:cb14:80fa:6700:612d:5643:11bd:f90f".
+INFO 2018-06-11T15:32:30 supybot rss add called on #simxu by "Alcyone!Alcyone@2a01:cb14:80fa:6700:612d:5643:11bd:f90f".
+INFO 2018-06-11T15:36:36 supybot config list called on #simxu by "Alcyone!Alcyone@2a01:cb14:80fa:6700:612d:5643:11bd:f90f".
+INFO 2018-06-11T15:37:05 supybot config list called on #simxu by "Alcyone!Alcyone@2a01:cb14:80fa:6700:612d:5643:11bd:f90f".
+INFO 2018-06-11T15:37:27 supybot config help called on #simxu by "Alcyone!Alcyone@2a01:cb14:80fa:6700:612d:5643:11bd:f90f".
+INFO 2018-06-11T15:39:18 supybot rss announce add called on #simxu by "Alcyone!Alcyone@2a01:cb14:80fa:6700:612d:5643:11bd:f90f".
+WARNING 2018-06-11T15:39:18 supybot Denying Alcyone!Alcyone@2a01:cb14:80fa:6700:612d:5643:11bd:f90f for lacking "#simxu,op" capability.
+INFO 2018-06-11T15:41:59 supybot rss announce add called on #simxu by "Alcyone!Alcyone@2a01:cb14:80fa:6700:612d:5643:11bd:f90f".
+WARNING 2018-06-11T15:41:59 supybot Denying Alcyone!Alcyone@2a01:cb14:80fa:6700:612d:5643:11bd:f90f for lacking "#simxu,op" capability.
+INFO 2018-06-11T15:42:23 supybot rss called on #simxu by "Alcyone!Alcyone@2a01:cb14:80fa:6700:612d:5643:11bd:f90f".
+INFO 2018-06-11T15:42:45 supybot rss announce list called on #simxu by "Alcyone!Alcyone@2a01:cb14:80fa:6700:612d:5643:11bd:f90f".
+INFO 2018-06-11T15:45:15 supybot whoami called on #simxu by "Alcyone!Alcyone@2a01:cb14:80fa:6700:612d:5643:11bd:f90f".
+INFO 2018-06-11T15:46:04 supybot user register called in private by "Alcyone!Alcyone@2a01:cb14:80fa:6700:612d:5643:11bd:f90f".
+INFO 2018-06-11T15:47:13 supybot identify called in private by "Alcyone!Alcyone@2a01:cb14:80fa:6700:612d:5643:11bd:f90f".
+INFO 2018-06-11T15:47:23 supybot rss announce add called on #simxu by "Alcyone!Alcyone@2a01:cb14:80fa:6700:612d:5643:11bd:f90f".
+INFO 2018-06-11T15:47:33 supybot rss announce add called on #simxu by "Alcyone!Alcyone@2a01:cb14:80fa:6700:612d:5643:11bd:f90f".
+INFO 2018-06-11T15:51:52 supybot rss announce list called on #simxu by "Alcyone!Alcyone@2a01:cb14:80fa:6700:612d:5643:11bd:f90f".
+INFO 2018-06-11T15:52:08 supybot rss announce list called on #edencraft by "Alcyone!Alcyone@2a01:cb14:80fa:6700:612d:5643:11bd:f90f".
+INFO 2018-06-11T15:52:31 supybot rss announce add called on #edencraft by "Alcyone!Alcyone@2a01:cb14:80fa:6700:612d:5643:11bd:f90f".
+INFO 2018-06-11T15:52:35 supybot rss announce list called on #edencraft by "Alcyone!Alcyone@2a01:cb14:80fa:6700:612d:5643:11bd:f90f".
+INFO 2018-06-11T15:53:29 supybot rss announce remove called on #edencraft by "Alcyone!Alcyone@2a01:cb14:80fa:6700:612d:5643:11bd:f90f".
+INFO 2018-06-11T15:53:33 supybot rss announce list called on #edencraft by "Alcyone!Alcyone@2a01:cb14:80fa:6700:612d:5643:11bd:f90f".
+INFO 2018-06-11T15:54:49 supybot config list called on #simxu by "Alcyone!Alcyone@2a01:cb14:80fa:6700:612d:5643:11bd:f90f".
+INFO 2018-06-11T15:55:27 supybot config help called on #simxu by "Alcyone!Alcyone@2a01:cb14:80fa:6700:612d:5643:11bd:f90f".
+INFO 2018-06-11T15:56:48 supybot rss called on #simxu by "Alcyone!Alcyone@2a01:cb14:80fa:6700:612d:5643:11bd:f90f".
+INFO 2018-06-11T15:57:26 supybot rss called on #simxu by "Alcyone!Alcyone@2a01:cb14:80fa:6700:612d:5643:11bd:f90f".
+INFO 2018-06-11T15:57:32 supybot Exiting due to Ctrl-C.  If the bot doesn't exit within a few seconds, feel free to press Ctrl-C again to make it exit without flushing its message queues.
+INFO 2018-06-11T15:57:33 supybot Flushers flushed and garbage collected.
+INFO 2018-06-11T15:57:33 supybot Driver for Irc object for tuxfamily dying.
+INFO 2018-06-11T15:57:33 supybot Irc object for tuxfamily dying.
+INFO 2018-06-11T15:57:33 supybot Driver for Irc object for tuxfamily dying.
+INFO 2018-06-11T15:57:33 supybot Removing driver SocketDriver(Irc object for tuxfamily).
+INFO 2018-06-11T15:57:33 supybot Total uptime: 35 minutes and 37 seconds.
+INFO 2018-06-11T15:57:33 supybot Total CPU time taken: 13.01 seconds.
+INFO 2018-06-11T15:57:33 supybot No more Irc objects, exiting.
+INFO 2018-06-11T15:57:33 supybot Shutdown initiated.
+INFO 2018-06-11T15:57:33 supybot Killing Driver objects.
+INFO 2018-06-11T15:57:33 supybot Killing Irc objects.
+INFO 2018-06-11T15:57:33 supybot Writing registry file to sampre.conf
+INFO 2018-06-11T15:57:33 supybot Finished writing registry file.
+INFO 2018-06-11T15:57:33 supybot Shutdown complete.
+INFO 2018-06-11T15:57:39 supybot Connecting to irc.tuxfamily.org:6697.
+WARNING 2018-06-11T15:57:39 supybot Not checking SSL certificates, connections are vulnerable to man-in-the-middle attacks. Set supybot.protocols.ssl.verifyCertificates to "true" to enable validity checks.
+INFO 2018-06-11T15:57:40 supybot Shutdown initiated.
+INFO 2018-06-11T15:57:40 supybot Killing Driver objects.
+INFO 2018-06-11T15:57:40 supybot Killing Irc objects.
+INFO 2018-06-11T15:57:40 supybot Irc object for tuxfamily dying.
+INFO 2018-06-11T15:57:40 supybot Driver for Irc object for tuxfamily dying.
+INFO 2018-06-11T15:57:40 supybot Shutdown complete.
+INFO 2018-06-11T16:04:33 supybot Connecting to irc.tuxfamily.org:6697.
+WARNING 2018-06-11T16:04:33 supybot Not checking SSL certificates, connections are vulnerable to man-in-the-middle attacks. Set supybot.protocols.ssl.verifyCertificates to "true" to enable validity checks.
+INFO 2018-06-11T16:04:37 supybot Server campari.tuxfamily.net has version InspIRCd-2.0
+INFO 2018-06-11T16:04:37 supybot Got end of MOTD from campari.tuxfamily.net
+INFO 2018-06-11T16:04:43 supybot Join to #simxu on tuxfamily synced in 6.25 seconds.
+INFO 2018-06-11T16:04:44 supybot Join to #edencraft on tuxfamily synced in 7.23 seconds.
+INFO 2018-06-11T16:09:55 supybot Exiting due to Ctrl-C.  If the bot doesn't exit within a few seconds, feel free to press Ctrl-C again to make it exit without flushing its message queues.
+INFO 2018-06-11T16:09:56 supybot Flushers flushed and garbage collected.
+INFO 2018-06-11T16:09:56 supybot Driver for Irc object for tuxfamily dying.
+INFO 2018-06-11T16:09:56 supybot Irc object for tuxfamily dying.
+INFO 2018-06-11T16:09:56 supybot Driver for Irc object for tuxfamily dying.
+INFO 2018-06-11T16:09:56 supybot Removing driver SocketDriver(Irc object for tuxfamily).
+INFO 2018-06-11T16:09:56 supybot Total uptime: 5 minutes and 23 seconds.
+INFO 2018-06-11T16:09:56 supybot Total CPU time taken: 9.29 seconds.
+INFO 2018-06-11T16:09:56 supybot No more Irc objects, exiting.
+INFO 2018-06-11T16:09:56 supybot Shutdown initiated.
+INFO 2018-06-11T16:09:56 supybot Killing Driver objects.
+INFO 2018-06-11T16:09:56 supybot Killing Irc objects.
+INFO 2018-06-11T16:09:56 supybot Writing registry file to sampre.conf
+INFO 2018-06-11T16:09:56 supybot Finished writing registry file.
+INFO 2018-06-11T16:09:56 supybot Shutdown complete.
+INFO 2018-06-11T16:17:16 supybot Connecting to irc.tuxfamily.org:6697.
+WARNING 2018-06-11T16:17:16 supybot Not checking SSL certificates, connections are vulnerable to man-in-the-middle attacks. Set supybot.protocols.ssl.verifyCertificates to "true" to enable validity checks.
+INFO 2018-06-11T16:17:20 supybot Server edony.tuxfamily.net has version InspIRCd-2.0
+INFO 2018-06-11T16:17:20 supybot Got end of MOTD from edony.tuxfamily.net
+INFO 2018-06-11T16:17:26 supybot Join to #simxu on tuxfamily synced in 6.20 seconds.
+INFO 2018-06-11T16:17:27 supybot Join to #edencraft on tuxfamily synced in 7.08 seconds.
+INFO 2018-06-11T17:00:36 supybot rss announce list called on #edencraft by "Alcyone!Alcyone@2a01:cb14:80fa:6700:612d:5643:11bd:f90f".
+INFO 2018-06-11T17:17:19 supybot Flushers flushed and garbage collected.
